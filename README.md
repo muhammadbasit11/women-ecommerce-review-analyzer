@@ -7,7 +7,7 @@ and generates a business insight dashboard from raw e-commerce data.
 - Cleans and processes 22,000+ real customer reviews
 - Identifies rating patterns across departments
 - Analyzes most common words in positive vs negative reviews
-- Generates a 5-chart visual dashboard
+- Generates a 6-chart visual dashboard
 
 ## Dashboard
 ![Dashboard](dashboard.png)
